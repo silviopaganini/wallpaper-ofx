@@ -1,0 +1,24 @@
+#################  
+## openFrameworks  
+#################  
+
+[Bb]in/*  
+![Bb]in/data/  
+[Bb]uild/  
+[Oo]bj/  
+*.o  
+[Dd]ebug*/  
+[Rr]elease*/  
+*.mode*  
+*.app/  
+*.pyc  
+*.log  
+
+#################  
+## Code::Blocks  
+#################  
+
+*.depend  
+*.layout  
+
+.DS_Store

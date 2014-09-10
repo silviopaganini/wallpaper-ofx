@@ -1,0 +1,3 @@
+ofxVectorGraphics
+ofxXmlSettings
+ofxUI
